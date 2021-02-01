@@ -8,7 +8,7 @@
         <field name="arch" type="xml">
               <data>  
                   <xpath expr="//field[@name='mobile']" position="after">  
-                  <fied name = "birthday"/>  
+                  <field name = "birthday22"/>  
                    </xpath>  
               </data>
         </field>  
